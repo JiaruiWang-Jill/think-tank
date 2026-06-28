@@ -21,7 +21,9 @@ You can change, add, or remove fields easily.
 ## Demo
 
 
-https://github.com/user-attachments/assets/36475cd6-8bff-4795-ae92-c328e1f421ba
+
+https://github.com/user-attachments/assets/65cefb1a-4141-4eb2-85b2-afbcc0a7cdaf
+
 
 
 ▶️ **[Watch the demo](https://github.com/JiaruiWang-Jill/think-tank/blob/main/assets/demo.mp4)** — click the image above to play it on GitHub.
