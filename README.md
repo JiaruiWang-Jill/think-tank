@@ -20,7 +20,9 @@ You can change, add, or remove fields easily.
 
 ## Demo
 
-[![Watch the Think Tank demo](assets/demo-poster.png)](https://github.com/JiaruiWang-Jill/think-tank/blob/main/assets/demo.mp4)
+
+https://github.com/user-attachments/assets/36475cd6-8bff-4795-ae92-c328e1f421ba
+
 
 ▶️ **[Watch the demo](https://github.com/JiaruiWang-Jill/think-tank/blob/main/assets/demo.mp4)** — click the image above to play it on GitHub.
 
