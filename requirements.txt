@@ -1,0 +1,6 @@
+# Core mock run needs NO dependencies (pure stdlib) — python -m thinktank.run --mock
+# The packages below are only needed for the optional features noted:
+
+anthropic>=0.40        # --real  (live Anthropic API)
+fastapi>=0.110         # --dashboard (live web view)
+uvicorn>=0.29          # --dashboard (ASGI server)

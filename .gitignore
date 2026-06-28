@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated run outputs (digests, ideas, memory, chat per run)
+runs/
+
+# Local tooling / OS
+.claude/
+.DS_Store
+
+# Never commit secrets
+.env
+*.key
