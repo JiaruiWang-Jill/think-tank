@@ -20,11 +20,9 @@ You can change, add, or remove fields easily.
 
 ## Demo
 
-https://github.com/JiaruiWang-Jill/think-tank/raw/main/assets/demo.mp4
+[![Watch the Think Tank demo](assets/demo-poster.png)](https://github.com/JiaruiWang-Jill/think-tank/blob/main/assets/demo.mp4)
 
-<video src="https://github.com/JiaruiWang-Jill/think-tank/raw/main/assets/demo.mp4" controls width="100%"></video>
-
-> If the player doesn't load, [▶️ watch the demo here](assets/demo.mp4).
+▶️ **[Watch the demo](https://github.com/JiaruiWang-Jill/think-tank/blob/main/assets/demo.mp4)** — click the image above to play it on GitHub.
 
 ---
 
